@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 📫 How to reach me: https://twitter.com/c4_eth
+- 😄 Pronouns: He/Him
+
 <!--
 **choguun/choguun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
