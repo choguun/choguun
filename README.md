@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+I am web3 builder.
+
 - 📫 How to reach me: https://twitter.com/c4_eth
+- 📫 How to reach me: https://t.me/c4eth
 - 😄 Pronouns: He/Him
 
 <!--
