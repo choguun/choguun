@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a web3 builder and full-stack blockchain developer.
-typescript, reactjs, solidity, and rust.
+typescript, reactjs, solidity, rust, and move.
 
 - 📫 How to reach me: https://twitter.com/c4_eth
 - 📫 How to reach me: https://t.me/c4eth
