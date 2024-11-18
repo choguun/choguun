@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a web3 builder and full-stack ai blockchain developer.
+I am a web3 builder and full-stack ai & blockchain developer.
 typescript, reactjs, python, solidity, rust, and move.
 
 - 📫 How to reach me: https://t.me/c4eth
