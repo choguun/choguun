@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a web3 builder and full-stack ai & blockchain developer. \
-typescript, reactjs, python, solidity, rust, and move.
+I am a Web3 Builder and Full-stack AI & Blockchain Developer. \
+Typescript, ReactJS, Python, Solidity, Rust, and Move.
 
 - 📫 How to reach me: https://t.me/c4eth
 - 😄 Pronouns: He/Him
