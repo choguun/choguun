@@ -3,6 +3,8 @@
 I am a Web3 Builder and Full-stack AI & Blockchain Developer. \
 Typescript, ReactJS, Python, Solidity, Rust, and Move.
 
+Solve things with AI agents.
+
 - 📫 How to reach me: https://t.me/c4eth
 - 😄 Pronouns: He/Him
 
