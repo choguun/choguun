@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a Web3 Builder and Full-stack AI & Blockchain Developer. \
-Typescript, ReactJS, Python, Solidity, Rust, and Move.
+I am a Builder and Full-stack AI & Blockchain Developer.
 
 Solve things with AI agents.
 
