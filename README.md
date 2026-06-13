@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-I am a Builder and Full-stack AI & Blockchain Developer.
+I am a AI Native Builder and Full-stack AI & Blockchain Developer.
 
 Solve things with AI agents.
 
+- 🔭 I’m currently working on Autonomous Bug Bounty Hunter and Agentic Game Studio Control Plane.
+- https://hackenproof.com/hackers/choguun168
+- https://www.linkedin.com/posts/visaruth_ucws2026-hackathon-ai-activity-7471159641758932992-K9_h
+
 - 📫 How to reach me: https://t.me/c4eth
-- 😄 Pronouns: He/Him
+
 
 <!--
 **choguun/choguun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
