@@ -4,7 +4,7 @@ I am a AI Native Builder and Full-stack AI & Blockchain Developer.
 
 Solve things with AI agents.
 
-- 🔭 I’m currently working on Autonomous Bug Bounty Hunter, Agentic Game Studio Control Plane, and Voice Agent.
+- 🔭 I’m currently working on Autonomous Bug Bounty Hunter, Agentic Game Studio Control Plane, Voice Agent, and Verification layer for embodied AI.
 - https://hackenproof.com/hackers/choguun168
 - https://www.linkedin.com/posts/visaruth_ucws2026-hackathon-ai-activity-7471159641758932992-K9_h
 
